@@ -33,7 +33,7 @@ having learned Python, JavaScript and Java in my time there.
 **Veterinary Appointment System - https://github.com/Iain-Forbes/Vet_Project**
 
 This was my first project built at CodeClan, during week five of the course. This was a Solo Project completed in 4 days. 
-It has full CURD functionality using PostgreSQL. It runs on a Flask server with a Python backend. The aim of the project 
+It has full CRUD functionality using PostgreSQL. It runs on a Flask server with a Python backend. The aim of the project 
 was to design an appointment system that allowed animals to be checked-in to the vet. These animals are linked to owners 
 registered with the vet.
 
