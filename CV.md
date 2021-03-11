@@ -6,6 +6,7 @@ permalink: /CV/
 
 # Ipsos Mori
 **Market Researcher**
+
 **September 2016 – March 2019**
 
 - Business-to-consumer and business-to-business surveys on behalf of Ipsos Mori
@@ -15,6 +16,7 @@ permalink: /CV/
 
 # Teleperformance
 **Online chat agent**
+
 **August 2017 – Jan 2018**
 
 - Working on my own initiative offering a great customer service experience.
@@ -25,7 +27,8 @@ permalink: /CV/
 
 # Office of Margaret McDougall MSP
 **Parliamentary Researcher and Press Officer for Margaret McDougall MSP**
-**July 2011 -  May 2016**
+
+**July 2011 - May 2016**
 
 - Organisation and promotion of events such as employment fairs.
 - Managing several Microsoft Excel Databases and in-house database system
@@ -43,10 +46,12 @@ permalink: /CV/
 
 ## Strathclyde University
 **Dates Attended: 2009 until 2010**
+
 **MSc Political Research — Pass with Merit** 
 
 ## Glasgow Caledonian University
 **Dates Attended: 2006 until 2009**
+
 **BA Social Science — Hons: 2:1 / ICT Skills – Pass**
 
 
