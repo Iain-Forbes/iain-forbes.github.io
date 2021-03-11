@@ -19,7 +19,7 @@ permalink: /CV/
 
 - Working on my own initiative offering a great customer service experience.
 - Tackling complaints and queries through online chat and social media. Being empathetic and 
-  understanding to reach solutions to the customers problem.
+  understanding to reach solutions to the customers' problems.
 - Meeting and exceeding KPIs
 
 
