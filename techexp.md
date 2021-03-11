@@ -4,8 +4,6 @@ title: Technical Experience
 permalink: /techexp/
 ---
 
-### Technical Experience.
-
 ### CodeClan – Sep 2020 to March 2021
 ## Professional Software Development Course. 
 
