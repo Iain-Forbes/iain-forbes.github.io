@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-=======
-Personal website using Jekyll Now to Build upon.
->>>>>>> 020f8d9f7feebc87b4f427dbef3d80a19fdf1be8
+
+Personal website built using Jekyll, with the Jekyll Now template.
