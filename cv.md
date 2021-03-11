@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: Technical Experience
+permalink: /techexp/
 ---
 
 ### Technical Experience.
@@ -19,7 +19,6 @@ In, addition CodeClan has given me the skills I need to learned and pick up new 
 having learned Python, JavaScript and Java in my time there.
 
 
-
 # Key Skills Gained (so far)
 
 - Python and Flask
@@ -28,8 +27,7 @@ having learned Python, JavaScript and Java in my time there.
 - Git and GitHib – Version management and Control.
 - PostgreSQL and MongoBD
 - HTML and CSS
-- Agile and Scrum 
-
+- Agile and Scrum
 
 
 # My CodeClan Projects 
