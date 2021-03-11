@@ -18,7 +18,7 @@ working knowledge of HTML, usually however, I’d use MaterialUI or another comp
 In, addition CodeClan has given me the skills I need to learned and pick up new languages quickly, 
 having learned Python, JavaScript and Java in my time there.
 
-<p style="text-align: center;">
+
 
 # Key Skills Gained (so far)
 
@@ -30,7 +30,7 @@ having learned Python, JavaScript and Java in my time there.
 - HTML and CSS
 - Agile and Scrum 
 
-</p>
+
 
 # My CodeClan Projects 
 
