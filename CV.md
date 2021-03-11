@@ -25,7 +25,7 @@ permalink: /CV/
 
 # Office of Margaret McDougall MSP
 **Parliamentary Researcher and Press Officer for Margaret McDougall MSP**
-**uly 2011 -  May 2016**
+**July 2011 -  May 2016**
 
 - Organisation and promotion of events such as employment fairs.
 - Managing several Microsoft Excel Databases and in-house database system
