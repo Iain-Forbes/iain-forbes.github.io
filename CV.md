@@ -5,8 +5,7 @@ permalink: /CV/
 ---
 
 # Ipsos Mori
-**Market Researcher**
-
+### Market Researcher
 **September 2016 – March 2019**
 
 - Business-to-consumer and business-to-business surveys on behalf of Ipsos Mori
@@ -15,8 +14,7 @@ permalink: /CV/
   while maintaining a quick and unbiased approach. 
 
 # Teleperformance
-**Online chat agent**
-
+### Online chat agent
 **August 2017 – Jan 2018**
 
 - Working on my own initiative offering a great customer service experience.
@@ -26,7 +24,7 @@ permalink: /CV/
 
 
 # Office of Margaret McDougall MSP
-**Parliamentary Researcher and Press Officer for Margaret McDougall MSP**
+### Parliamentary Researcher and Press Officer for Margaret McDougall MSP
 
 **July 2011 - May 2016**
 
