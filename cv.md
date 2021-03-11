@@ -30,6 +30,8 @@ having learned Python, JavaScript and Java in my time there.
 - HTML and CSS
 - Agile and Scrum 
 
+</p>
+
 # My CodeClan Projects 
 
 **Veterinary Appointment System - https://github.com/Iain-Forbes/Vet_Project**
@@ -46,4 +48,4 @@ My third and final CodeClan project, I took the decision to attempt this project
 
 The front end uses a mixture of bootstrap and CSS on top of a React App, it also has pagination which I coded out, before realising bootstrap had it built in. As of right now the app displayed a hero database and biography section. Future plans are to turn it in a fully-fledged battle app. This app was constructed over a 4 day period. 
 
-</p>
+
