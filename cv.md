@@ -18,6 +18,7 @@ working knowledge of HTML, usually however, I’d use MaterialUI or another comp
 In, addition CodeClan has given me the skills I need to learned and pick up new languages quickly, 
 having learned Python, JavaScript and Java in my time there.
 
+<p style="text-align: center;">
 
 # Key Skills Gained (so far)
 
@@ -44,3 +45,5 @@ Second project built at CodeClan, this was a group project, completed over 5 day
 My third and final CodeClan project, I took the decision to attempt this project Solo as I wanted to consolidate my Knowledge of React and play around with Java. Although the project isn’t full finished, the version I presented, use a MongoDB to store data that is pulled from an API, using streams, this API data is then built back in to Data Transfer Object to be saved in the database.
 
 The front end uses a mixture of bootstrap and CSS on top of a React App, it also has pagination which I coded out, before realising bootstrap had it built in. As of right now the app displayed a hero database and biography section. Future plans are to turn it in a fully-fledged battle app. This app was constructed over a 4 day period. 
+
+</p>
