@@ -28,7 +28,6 @@ footer-links:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-X6F8NTN5DS
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://iain-forbes.github.io
 
@@ -37,7 +36,6 @@ url: http://iain-forbes.github.io
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
-
 
 #Adding Facebook Comments
 comments:
@@ -48,9 +46,6 @@ comments:
     colorscheme : # "light" (default), "dark"
 
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
 
 permalink: /:title/
 
@@ -75,7 +70,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  - jekyll-seo-tag #
+  -
 # Exclude these files from your production _site
 exclude:
   - Gemfile
