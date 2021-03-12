@@ -12,9 +12,6 @@ layout: default
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
-
+    {% include comments.html %}
   </div>
-  {% if page.comments %}
-  {% include comments.html %}
-  {% endif %}
 </article>
