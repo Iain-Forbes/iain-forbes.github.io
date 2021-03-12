@@ -38,6 +38,16 @@ url: http://iain-forbes.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+
+#Adding Facebook Comments
+comments:
+  provider : "facebook"
+  facebook:
+    appid : 801414597399547
+    num_posts : # 5 (default)
+    colorscheme : # "light" (default), "dark"
+
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
