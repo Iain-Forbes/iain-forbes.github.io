@@ -7,10 +7,14 @@ layout: default
 
   <div class="entry">
     {{ content }}
+
   </div>
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
 
+  </div>
+  {% if page.comments %}
+  {% include comments.html %}
+  {% endif %}
 </article>
