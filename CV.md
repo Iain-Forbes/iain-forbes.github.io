@@ -4,55 +4,62 @@ title: CV
 permalink: /CV/
 ---
 
-# Ipsos Mori
-### Market Researcher
-**September 2016 – March 2019**
+## Iain Forbes
+East Ayrshire  | i.forbes@hotmail.co.uk
 
-- Business-to-consumer and business-to-business surveys on behalf of Ipsos Mori
-- Accurately coding responses, meeting and exceeding KPIs on a consistent basis.
-- Being polite and courteous often to difficult participants, negotiating and convincing people to take part, 
-  while maintaining a quick and unbiased approach. 
+---
 
-# Teleperformance
-### Online chat agent
-**August 2017 – Jan 2018**
+## Professional Profile
 
-- Working on my own initiative offering a great customer service experience.
-- Tackling complaints and queries through online chat and social media. Being empathetic and 
-  understanding to reach solutions to the customers' problems.
-- Meeting and exceeding KPIs
+A versatile professional combining a CodeClan software development qualification (Java, JavaScript, Python) with extensive experience in data analysis, public sector administration, and parliamentary research. I bring a developer's analytical mindset to every environment I work in -- understanding data not just as figures on a spreadsheet but as a tool for identifying real disparities and driving meaningful change. I am seeking to move from being a user of digital systems to someone who builds, maintains, and improves them.
 
+---
 
-# Office of Margaret McDougall MSP
-### Parliamentary Researcher and Press Officer for Margaret McDougall MSP
+## Experience
 
-**July 2011 - May 2016**
+**Administrative Assistant -- Adult Protection**
+East Ayrshire Health & Social Care Partnership | 2021 -- Present
 
-- Organisation and promotion of events such as employment fairs.
-- Managing several Microsoft Excel Databases and in-house database system
-- Producing accurate briefings and conducting research on a range of topics.
-- Preparing press releases, news articles, leaflets and posters using MS Publisher and Photoshop.
-- Website and Social Media Management (WordPress, Facebook, Twitter).
-- Taking minutes and preparing agendas for meetings.
-- Engaging with constituents and conducting casework and dealing with a variety of organisations, 
-  all in a professional and understanding manner.
-- Managed parliamentary office budget along with the MSP’s diary and Outlook Inbox.
-- Responsible for two interns 
+Managing sensitive statutory records across LiquidLogic and Microsoft Access within a strict legislative framework. Coordinating complex multi-agency meetings with social workers, team managers, and service managers. Producing high-standard minutes in line with legislative requirements. Daily operation within EAC's GDPR and data protection policies.
 
+**Parliamentary Research & Press Officer**
+Margaret McDougall MSP -- Scottish Parliament | 2011 -- 2015
 
-# Education History
+Broad, high-responsibility role spanning data analysis, communications, stakeholder engagement, and digital infrastructure management across three West of Scotland constituencies. Produced granular ward-level fact sheets identifying disparities that broader datasets obscured. Designed and deployed bespoke surveys where government data contained gaps. Managed the MSP's WordPress site, social media, press enquiries, diary, office budget, and staff email infrastructure. Supervised two interns. Constituent casework across housing, DWP, and local authority issues.
 
-## Strathclyde University
-**Dates Attended: 2009 until 2010**
+**Community Researcher**
+Scottish Poverty Unit | 2007
 
-**MSc Political Research — Pass with Merit** 
+Managed a healthcare accessibility study from street-level data collection through to final report and presentation, using surveys and focus groups.
 
-## Glasgow Caledonian University
-**Dates Attended: 2006 until 2009**
+**Market Research Interviewer**
+Ipsos MORI | 2016 -- 2019
 
-**BA Social Science — Hons: 2:1 / ICT Skills – Pass**
+B2C and B2B surveys across commercial and public sector studies. Practical insight into the full data lifecycle at commercial scale.
 
+---
 
+## Education & Qualifications
+
+**Professional Software Development** | CodeClan, Glasgow | 2021
+Java, JavaScript, Python. OOP, data structures, version control, applied project work.
+
+**BA (Hons) Politics and Sociology** | University of the West of Scotland | 2009 -- 2013
+
+---
+
+## Key Skills
+
+- Programming: Java, JavaScript, Python
+- Databases: Microsoft Access, SQL, relational and non-relational design
+- Systems: LiquidLogic, WordPress, Jekyll
+- Governance: GDPR, data protection, statutory compliance
+- Communication: Press liaison, stakeholder engagement, report writing
+- Analysis: Survey design, ward-level reporting, gap analysis
+
+---
+
+*References available on request.*
 
 
 
