@@ -4,26 +4,14 @@ title: About
 permalink: /about/
 ---
 
+I'm Iain Forbes, an administrative and ICT professional based in Kilmarnock, East Ayrshire.
 
-### More Information
+I currently work within East Ayrshire Council's Health and Social Care Partnership, managing sensitive statutory records in an Adult Protection context. The role has given me a thorough grounding in data integrity, GDPR compliance, and the real-world consequences of unreliable systems -- and reinforced my ambition to work on that infrastructure directly rather than simply as an end user.
 
-I’m Iain. I’m a friendly and outgoing individual with a thirst for learning new things. I come from a background of grassroots 
-campaigning with strong roots in customer services, research and PR.
+Before joining the Council, I worked as Parliamentary Research and Press Officer for Margaret McDougall MSP, covering three West of Scotland constituencies. That role involved ward-level data analysis, survey design, stakeholder engagement, press liaison, and managing the MSP's digital presence -- a broad mix of analytical and communications work that sits at the intersection of data and public service.
 
-Previously, I worked for an MSP as Press and Research Officer. After being made redundant I moved IPSOS MORI where I carried out
-Business to Business and Business to Consumer Market Research.
+I hold a CodeClan Professional Software Development qualification covering Java, JavaScript, and Python, alongside a BA (Hons) in Politics and Sociology from the University of the West of Scotland.
 
-During this period I started a family and at the start of 2020 I left IPSOS to pursue another passion of mine, coding.
+My interests sit at the crossroads of data, digital infrastructure, and public sector service delivery. I'm particularly drawn to ICT systems, network infrastructure, and the question of how better-designed digital tools can improve the services that communities actually depend on.
 
-This lead to me joining CodeClan, to undertake the Professional Software Development Course. The course was tough and taxing. I loved every minute of it. 
-
-I'm now keen to take my newfound skills and build on them within the tech industry.
-
-My dream would be to combine my love of coding with making a real difference in the world, be it in the third sector, grassroots 
-movements or other social ventures. Owing to a Master Degree in Political Research I have a keen interest in data and data visualization, 
-so I'd love to explore that sector more.
-
-
-### Contact me
-
-[iaintech87@gmail.com](mailto:iaintech87@gmail.com)
+Outside work: gaming, hardware, and making Kilmarnock slightly more interesting one decision at a time.
